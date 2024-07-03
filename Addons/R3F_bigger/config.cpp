@@ -12,6 +12,7 @@ class cfgvehicles {
   class B_Carryall_cbr;
   class B_Bergen_rgr;
   class B_Bergen_mcamo_F;
+  class gR3F_sac_moyen_CE;
 
   //normal backpacks
   class R3F_sac_moyen_CE_big : B_Kitbag_cbr {
