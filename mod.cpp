@@ -1,0 +1,17 @@
+name = "Bigger backpacks for R3F"; 
+actionName = "Website"; 
+action = "http://team-r3f.org";
+picture = "mod.paa";    
+logo = "modnb.paa";
+logoSmall = "modnb.paa";   
+logoOver = "mod.paa";    
+tooltip = "R3F bigger"; 
+tooltipOwned = "R3F bigger";   
+overview = "R3F bigger"; 
+overviewPicture = "mod.paa"; 
+overviewText = "R3F bigger";
+overviewFootnote = "";
+hidePicture = 1;
+hideName = 0;
+description = "R3F bigger backpacks";
+author = "thisconnect"; 
