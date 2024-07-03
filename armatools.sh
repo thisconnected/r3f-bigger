@@ -31,7 +31,7 @@ function packarma
 
 function packPBO
 {
-    cmd="$PBOPATH packFolder --path=\"$1\""
+    cmd="$PBOPATH packFolder --path=\"./$1\""
     echo $cmd
     eval $cmd
 }
