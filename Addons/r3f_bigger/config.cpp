@@ -1,18 +1,9 @@
 class cfgvehicles {
-  class Man;
-  class B_Soldier_F;
-  class B_Helipilot_F;
-  class I_pilot_F;
-  class B_diver_F;
-  class B_sniper_F;
-  class ReammoBox;
   class B_Kitbag_cbr;
-  class B_AssaultPack_Kerry;
   class B_FieldPack_blk;
   class B_Carryall_cbr;
   class B_Bergen_rgr;
-  class B_Bergen_mcamo_F;
-  class gR3F_sac_moyen_CE;
+  class R3F_sac_moyen_CE;
 
   //normal backpacks
   class R3F_sac_moyen_CE_big : B_Kitbag_cbr {
